@@ -1,3 +1,4 @@
 # Algorithm
 
-i love :coffee: :pizza: and :dancer:.
+I love :coffee: :pizza: and :dancer:.
+I love :tea: , :book:.
