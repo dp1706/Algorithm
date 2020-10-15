@@ -6,9 +6,9 @@ I love :tea: , :book:.
 www.github.com
 @dp1706
 
-- [x] hii there
-- [x] this is taslist
-- [x] yes it is
+- [ ] hii there
+- [ ] this is taslist
+- [ ] yes it is
 
 
 
