@@ -12,6 +12,7 @@ www.github.com
 
 @github/support What do you think about these updates?
 
+Fill in the fields to see the markdown badge snippet.
 
 
 
